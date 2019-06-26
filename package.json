@@ -1,0 +1,23 @@
+{
+  "name": "eje02-clase",
+  "version": "1.0.0",
+  "description": "Eric",
+  "main": "index.js",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericromang/ejercicio03-apepat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericromang/ejercicio03-apepat/issues"
+  },
+  "homepage": "https://github.com/ericromang/ejercicio03-apepat#readme"
+}
